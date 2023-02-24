@@ -33,7 +33,7 @@
 </p>
 
 <div align="center">
-  <h2>🔥My Stats🔥</h2>
+  <h2>🔥GitHub stats🔥</h2>
 </div>
 
 <p align="center">
