@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <h2>🪄Technologies used in my repositories🪄</h2>
+  <h2>✨Technologies used in my repositories✨</h2>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
