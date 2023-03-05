@@ -1,12 +1,12 @@
-
 <div align="center">
   <h2>Denis Smolyarov</h2>
 </div>
 <div align="center">
   <img src="https://media4.giphy.com/media/yy4FMvzk7hLFoFGz3W/giphy.gif" width="150"/>
 </div>
-<div align="center">
-  <a href="https://www.instagram.com/v_moem_serdce_dirka/"><img src="https://media0.giphy.com/media/KnP4MW4dkeNJWCThSg/giphy.gif" width="50"></a>
+<div class="contact" align="center">
+  <a href="https://www.instagram.com/v_moem_serdce_dirka/"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width="45" align="center"></a>
+  <a href="https://t.me/lil_pigs"><img src="https://parspng.com/wp-content/uploads/2021/10/telgrampng.parspng.com-3.png" width="45" align="center"></a>
 </div>
 
 <div align="center">
