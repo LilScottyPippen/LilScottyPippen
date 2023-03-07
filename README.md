@@ -10,6 +10,13 @@
 </div>
 
 <div align="center">
+
+<!-- https://github.com/kittinan/spotify-github-profile -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r5tw16lsmlbm89r3b750gtysb&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  
+</div>
+
+<div align="center">
   <h2>✨Technologies used in my repositories✨</h2>
 </div>
 <p align="center">
@@ -17,11 +24,6 @@
     <img src="https://skillicons.dev/icons?i=python,django,js,jquery,html,css,postgres" />
   </a>
 </p>
-
-<!-- <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.djangoproject.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="40" height="40"/></a>&nbsp; -->
 
 <div align="center">
   <h2>🧰Used tools🧰</h2>
