@@ -18,12 +18,12 @@
 
 <div align="center">
   <h2>✨My skils✨</h2>
-<!-- </div>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,html,css" />
   </a>
-</p> -->
+</p>
 
 <div align="center">
   <h2>🧰Used tools🧰</h2>
