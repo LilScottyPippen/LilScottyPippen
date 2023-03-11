@@ -17,13 +17,13 @@
 </div>
 
 <div align="center">
-  <h2>✨Technologies used in my repositories✨</h2>
-</div>
+  <h2>✨My skils✨</h2>
+<!-- </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,js,jquery,html,css,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css" />
   </a>
-</p>
+</p> -->
 
 <div align="center">
   <h2>🧰Used tools🧰</h2>
