@@ -9,7 +9,7 @@
   <a href="https://t.me/lil_pigs"><img src="https://parspng.com/wp-content/uploads/2021/10/telgrampng.parspng.com-3.png" width="45" align="center"></a>
 </div><br>
 <div align="center">
-  <img src="https://www.codewars.com/users/LilScottyPippen/badges/large"/>
+  <a href="https://www.codewars.com/users/LilScottyPippen"><img src="https://www.codewars.com/users/LilScottyPippen/badges/large"/></a>
 </div>
 
 <div align="center">
