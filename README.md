@@ -14,9 +14,6 @@
 
 <div align="center">
 
-<!-- https://github.com/kittinan/spotify-github-profile -->
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r5tw16lsmlbm89r3b750gtysb&cover_image=true&theme=natemoo-re& --> <!-- show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github- --> <!-- profile) -->
-
 </div>
 
 <div align="center">
@@ -46,5 +43,3 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=LilScottyPippen&theme=dark&background=000000" />
   </a>
 </p>
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilScottyPippen&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
