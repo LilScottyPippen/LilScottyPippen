@@ -21,7 +21,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,postgres" />
   </a>
 </p>
 
