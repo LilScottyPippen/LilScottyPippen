@@ -30,7 +30,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,git,docker,sentry" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,git,docker,sentry,vercel" />
   </a>
 </p>
 
