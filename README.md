@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <h2>✨My skils✨</h2>
+  <h2>✨My skills✨</h2>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
