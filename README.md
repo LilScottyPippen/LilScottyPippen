@@ -21,7 +21,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,git,docker,sentry,vercel" />
+    <img src="https://skillicons.dev/icons?i=pycharm,linux,git,docker,vercel" />
   </a>
 </p>
 
