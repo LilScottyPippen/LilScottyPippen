@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Denis Smolyarov</h2>
+  <h2>Denis Smoliarov</h2>
 </div>
 <div align="center">
   <img src="https://media4.giphy.com/media/yy4FMvzk7hLFoFGz3W/giphy.gif" width="150"/>
